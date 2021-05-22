@@ -80,7 +80,6 @@ def plot_fruit_knn(X, y, n_neighbors, weights):
     patch3 = mpatches.Patch(color='#AFAFAF', label='lemon')
     plt.legend(handles=[patch0, patch1, patch2, patch3])
 
-        
     plt.xlabel('height (cm)')
     plt.ylabel('width (cm)')
     
