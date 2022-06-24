@@ -1,0 +1,9 @@
+﻿Panas_Dingin,Pilek,Sakit_Kepala,demam,Flu
+1,0,Sedang,1,0
+1,1,Tidak,0,1
+1,0,Kuat,1,1
+0,1,Sedang,1,1
+0,0,Tidak,0,0
+0,1,Kuat,1,1
+0,1,Kuat,0,0
+1,1,Sedang,1,1
